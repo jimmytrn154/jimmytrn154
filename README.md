@@ -60,6 +60,7 @@
 | **[Simple-RAG](https://github.com/jimmytrn154/Simple-RAG)** | Minimal RAG template for quick experiments | Python, LangChain, ChromaDB |
 | **[Retrieval_Model](https://github.com/Mancupfire/Retrieval_Model)** | Restaurant recommender (keywords → suggestions) | Python, Jupyter |
 | **[vinNLP.github.io](https://github.com/VinNLP/vinnlp.github.io)** | Group website | HTML, GitHub Pages |
+| **[Learn-AI-with-me](https://github.com/jimmytrn154/Learn-AI-with-Chun)** | Python | R | ML | DL
 
 ---
 
