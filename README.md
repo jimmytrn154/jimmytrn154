@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-tr%E1%BA%A7n-anh-6a02b3286/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://hpbd-alpha.vercel.app" target="_blank">
-    <img alt="Live" src="https://img.shields.io/badge/Live-Demo-000?style=flat&logo=vercel">
-  </a>
 </p>
 
 ---
