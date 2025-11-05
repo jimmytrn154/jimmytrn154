@@ -8,15 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://hpbd-alpha.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-hpbd--alpha.vercel.app-000?style=flat&logo=vercel"></a>
-  <a href="mailto:🎯you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@-1f6feb?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/🎯" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:🎯jimmytrn154@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@-1f6feb?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-tr%E1%BA%A7n-anh-6a02b3286/)🎯" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧭 About me
-- 🎓 Undergrad @ VinUni · obsessed with **RAG**, **recommender systems**, and **useful UI**  
+- 🎓 Data Science Undergrad @ VinUni · obsessed with **RAG**, **AI in Medical**, and **useful UI**  
 - 🛠️ Mainly: **React (Vite + TS)**, **Tailwind**, **Django**, **Python**  
 - 🚀 Shipping on **Vercel**; experimenting with **LangChain**, **ChromaDB**, **OpenAI APIs**  
 - 📦 I like tidy repos, typed code, and small DX tools that remove friction  
@@ -36,7 +35,6 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[hpbd](https://github.com/jimmytrn154/hpbd)** · [live](https://hpbd-alpha.vercel.app) | A playful birthday microsite with video + share cards | Vite, TS, Tailwind, Vercel |
 | **[Simple-RAG](https://github.com/jimmytrn154/Simple-RAG)** | Minimal RAG template for quick experiments | Python, LangChain, ChromaDB |
 | **[Retrieval_Model](https://github.com/Mancupfire/Retrieval_Model)** | Restaurant recommendation (keywords → suggestions) | Jupyter, Python |
 | **[vinNLP.github.io](https://github.com/VinNLP/vinnlp.github.io)** | Group site content | HTML, GitHub Pages |
@@ -47,7 +45,7 @@
 **Frontend:** React (Vite + TS), Tailwind, Framer Motion  
 **Backend:** Django, REST APIs, FastAPI (learning)  
 **AI/DS:** Python, NumPy/Pandas, scikit-learn, LangChain, OpenAI, ChromaDB  
-**DevOps:** Git/GitHub, Vercel, GitHub Actions, GitHub Pages  
+**DevOps:** Git/GitHub, Vercel, GitHub Actions, GitHub Pages, AWS
 **Other:** LaTeX (reports), R (tidyverse), Jupyter/Colab
 
 <!-- If you prefer badges, replace the list above with shields.dev or simple-icons -->
@@ -65,7 +63,9 @@
   <img height="165" src="https://streak-stats.demolab.com?user=jimmytrn154&theme=transparent" alt="Streaks"/>
 </p>
 -->
-
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=jimmytrn154&theme=transparent" alt="Streaks"/>
+</p>
 ---
 
 ## 🗺 Roadmap / what’s next
