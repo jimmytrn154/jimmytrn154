@@ -3,7 +3,7 @@
 
 <h1 align="center">Jimmy Tran</h1>
 <p align="center">
-  <em>Data/AI tinkerer · React&nbsp;+&nbsp;TypeScript · Django · RAG &amp; Recommenders</em><br/>
+  <em>Data/AI tinkerer · React&nbsp;+&nbsp;TypeScript · Django · RAG · Computer Vision&amp; Recommenders</em><br/>
   <sub>building small things that feel big ✨</sub>
 </p>
 
@@ -19,7 +19,7 @@
 ---
 
 ## 🧭 About me
-- 🎓 Data Science undergrad @ **VinUni**; into **RAG**, **AI for Health**, and **delightful UI**
+- 🎓 Data Science undergrad @ **VinUni**; into **RAG**, **AI (CV) for Health**, and **delightful UI**
 - 🛠️ Daily driver: **React (Vite + TS)**, **Tailwind**, **Django**, **Python**
 - 🚀 Ship on **Vercel**; experiment with **LangChain**, **ChromaDB**, **OpenAI APIs**
 - 🧹 I like tidy repos, typed code, and tooling that removes friction
