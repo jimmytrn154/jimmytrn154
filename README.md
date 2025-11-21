@@ -82,8 +82,3 @@ Have a small idea that needs UI + AI glue?
 
 ---
 
-<details>
-  <summary>How this profile works</summary>
-  GitHub shows the README from a public repo named exactly <code>jimmytrn154</code>.
-  Edit this file in that repo to update this page. Prefer SVG shields; keep images small.
-</details>
