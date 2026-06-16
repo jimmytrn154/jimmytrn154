@@ -73,13 +73,6 @@ I'm an undergraduate Data Science student at **VinUni** with a strong passion fo
 
 ---
 
-## 🗺️ Roadmap
-- [ ] Turn **Simple-RAG** into a CLI with plug-and-play loaders  
-- [ ] Launch a **RecSys** demo with a clean public dataset + modern UI  
-- [ ] Publish a tiny **“Vercel OG Meta”** checklist for developer friends
-
----
-
 ## 🤝 Let's Collaborate
 Have a small idea that needs UI + AI glue? Let's talk!
 
